@@ -1,0 +1,9 @@
+{
+	"name": "srinithi-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "31a7d5c6-0e6e-4c67-99e6-1a8440b317f3",
+		"tenantId": "dacefcae-580b-481f-8c42-697f1be24bd0"
+	}
+}
