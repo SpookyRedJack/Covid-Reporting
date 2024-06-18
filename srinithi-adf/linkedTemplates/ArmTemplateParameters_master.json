@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "srinithi-adf"
+		},
+		"ls_ablob_srinithisa_connectionString": {
+			"value": ""
+		},
+		"ls_adls_srinithidl_accountKey": {
+			"value": ""
+		},
+		"ls_adls_srinithidl_properties_typeProperties_url": {
+			"value": "https://srinithidl.dfs.core.windows.net/"
+		},
+		"ls_http_opendata_ecdc_europa_eu_properties_typeProperties_url": {
+			"value": "@{linkedService().sourceBaseURL}"
+		},
+		"tr_ingest_population_data_properties_typeProperties_scope": {
+			"value": "/subscriptions/04bbc42f-1e8d-4e58-a97e-26767b2d8d95/resourceGroups/covid-reporting-rg/providers/Microsoft.Storage/storageAccounts/srinithisa"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
