@@ -47,7 +47,7 @@
 			"type": "string",
 			"defaultValue": "srinithi"
 		},
-		"tr_ingest_population_data_properties_typeProperties_scope": {
+		"tr_population_data_arrived_properties_typeProperties_scope": {
 			"type": "string",
 			"defaultValue": "/subscriptions/04bbc42f-1e8d-4e58-a97e-26767b2d8d95/resourceGroups/covid-reporting-rg/providers/Microsoft.Storage/storageAccounts/srinithisa"
 		},
@@ -126,8 +126,8 @@
 					"factoryName": {
 						"value": "[parameters('factoryName')]"
 					},
-					"tr_ingest_population_data_properties_typeProperties_scope": {
-						"value": "[parameters('tr_ingest_population_data_properties_typeProperties_scope')]"
+					"tr_population_data_arrived_properties_typeProperties_scope": {
+						"value": "[parameters('tr_population_data_arrived_properties_typeProperties_scope')]"
 					}
 				}
 			},

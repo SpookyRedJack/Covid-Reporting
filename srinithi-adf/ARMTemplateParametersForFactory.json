@@ -35,7 +35,7 @@
 		"ls_sql_covid_db_properties_typeProperties_userName": {
 			"value": "srinithi"
 		},
-		"tr_ingest_population_data_properties_typeProperties_scope": {
+		"tr_population_data_arrived_properties_typeProperties_scope": {
 			"value": "/subscriptions/04bbc42f-1e8d-4e58-a97e-26767b2d8d95/resourceGroups/covid-reporting-rg/providers/Microsoft.Storage/storageAccounts/srinithisa"
 		}
 	}
