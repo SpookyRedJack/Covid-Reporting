@@ -152,6 +152,9 @@
 				"policy": {
 					"elapsedTimeMetric": {}
 				},
+				"folder": {
+					"name": "ingest"
+				},
 				"annotations": [],
 				"lastPublishTime": "2024-06-17T17:15:50Z"
 			},
@@ -337,6 +340,9 @@
 				"policy": {
 					"elapsedTimeMetric": {}
 				},
+				"folder": {
+					"name": "ingest"
+				},
 				"annotations": [],
 				"lastPublishTime": "2024-06-17T13:22:28Z"
 			},
@@ -408,6 +414,9 @@
 				],
 				"policy": {
 					"elapsedTimeMetric": {}
+				},
+				"folder": {
+					"name": "sqlize"
 				},
 				"annotations": []
 			},
@@ -482,6 +491,9 @@
 				],
 				"policy": {
 					"elapsedTimeMetric": {}
+				},
+				"folder": {
+					"name": "sqlize"
 				},
 				"annotations": []
 			},
@@ -898,6 +910,9 @@
 				"policy": {
 					"elapsedTimeMetric": {}
 				},
+				"folder": {
+					"name": "process"
+				},
 				"annotations": [],
 				"lastPublishTime": "2024-06-17T19:07:00Z"
 			},
@@ -947,6 +962,9 @@
 				],
 				"policy": {
 					"elapsedTimeMetric": {}
+				},
+				"folder": {
+					"name": "process"
 				},
 				"annotations": []
 			},
